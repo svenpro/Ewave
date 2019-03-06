@@ -26,7 +26,7 @@ var path = {
         html: "dist/",
         js: "dist/assets/js/",
         css: "dist/assets/css/",
-        img: "dist/assets/i/",
+        img: "dist/assets/img/",
         fonts: "dist/assets/fonts/",
         json: "dist/assets/"
     },
@@ -34,7 +34,7 @@ var path = {
         html: "src/*.{htm,html,php}",
         js: "src/assets/js/*.js",
         css: "src/assets/sass/style.scss",
-        img: "src/assets/i/**/*.*",
+        img: "src/assets/img/**/*.*",
         fonts: "src/assets/fonts/**/*.*",
         json: "src/assets/*.json"
     },
@@ -42,7 +42,7 @@ var path = {
         html: "src/**/*.{htm,html,php}",
         js: "src/assets/js/**/*.js",
         css: "src/assets/sass/**/*.scss",
-        img: "src/assets/i/**/*.*",
+        img: "src/assets/img/**/*.*",
         fonts: "src/assets/fonts/**/*.*",
         json: "src/assets/*.json"
     },

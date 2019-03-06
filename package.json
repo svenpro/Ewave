@@ -4,7 +4,6 @@
   "description": "template-skeleton",
   "author": "brainscloud",
   "devDependencies": {
-    "bootstrap": "^4.0.0-beta",
     "browser-sync": "^2.23.6",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^6.0.0",
@@ -31,5 +30,8 @@
   },
   "engines": {
     "node": "8.9.4"
+  },
+  "dependencies": {
+    "node-sass": "^4.11.0"
   }
 }
